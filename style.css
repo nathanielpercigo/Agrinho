@@ -29,6 +29,7 @@
 
  .centered-h1 {
             position: absolute;
+            color: cyan;
             padding: 20px;
             background-color: #ffffff;
             border-radius: 8px;
@@ -44,7 +45,7 @@
             background-color: #ffffff;
             border-radius: 4px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            top: 130%;
+            top: 110%;
             left: 50%;
             transform: translate(-50%, -50%);
 }
