@@ -1,5 +1,6 @@
 .beautiful-title {
     font-size: 3rem;
+    text-align: center;
     color: #333333;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -39,7 +40,7 @@
 
  .centered-h1v2 {
             position: absolute;
-            top: 150%;
+            top: 50%;
             left: 50%;
             font-size: 36px
             transform: translate(-50%, -50%);
