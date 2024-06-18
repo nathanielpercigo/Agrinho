@@ -47,7 +47,7 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             top: 180%;
             left: 50%;
-            transform: translate(-50%, -50%);
+            transform: translate(-180%, -50%);
 }
 
  .H1CYAN {
@@ -58,6 +58,7 @@
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             top: 270%;
+            transform: translate(-270%);
 }
 
 .centered-h1v3 {
