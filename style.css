@@ -60,7 +60,7 @@
 } 
 
 .H1texto {
-    position: absolute;
+    display: flex;
     padding: 20px;
     background-color: #ffffff;
     border-radius: 8px;
