@@ -59,12 +59,10 @@
             top: 270%;
 }
 
-.H1texto {
+.H1__texto {
     position: static;
     padding: 20px;
     background-color: #ffffff;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     top: 320%;
 } 
 
