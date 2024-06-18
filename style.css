@@ -27,36 +27,3 @@
     margin-left: 10px;
 }
 
- .centered-h1 {
-            position: absolute;
-            padding: 20px;
-            background-color: #ffffff;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-}
-
- .centered-h1v2 {
-            position: absolute;
-            padding: 10px;
-            background-color: #ffffff;
-            top: 160%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-}
-
- .H1CYAN {
-            position: absolute;
-            color: cyan;
-            padding: 20px;
-            background-color: #ffffff;
-            top: 270%;
-}
-
-.H1texto {
-    position: absolute;
-    padding: 20px;
-    background-color: #ffffff;
-    top: 320%;
-} 
-
