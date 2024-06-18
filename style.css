@@ -60,11 +60,12 @@
             top: 290%;
 } 
 
-.TEXTO {
+.centered-h1v2 {
     position: absolute;
-    padding: 20px;
+    padding: 10px;
     background-color: #ffffff;
-    border-radius: 8px;
+    border-radius: 4px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     top: 320%;
-} 
+    left: 50%;
+}
