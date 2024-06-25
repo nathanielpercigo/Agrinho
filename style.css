@@ -46,7 +46,7 @@
     position: relatve;
     bottom: -1px; 
     left: 0;
-    width: 100%; 
+    width: 90%; 
     height: 1px; 
     background-color: darkgreen; 
 }
@@ -57,4 +57,8 @@
 
 .H1CYAN {
     color: cyan;
+}
+
+.H1texto {
+    text-align: center; 
 }
