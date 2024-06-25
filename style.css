@@ -61,7 +61,7 @@
     color: cyan;
 }
 
-.H1texto {
+.meio .H1texto {
     text-align: center; 
     color: #333333; 
     text-transform: uppercase; 
@@ -72,7 +72,7 @@
     position: relative; 
 }
 
-.H1texto::after {
+.meio .H1texto::after {
     content: '';
     position: relative;
     bottom: -8px; 
