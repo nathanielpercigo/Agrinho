@@ -60,6 +60,7 @@
     font-weight: 700; 
     color: #333333; 
     text-align: center;
+    background: linear-gradient(to top, #006400, #003300);
 }
 
 .meio > .H1CYAN {
