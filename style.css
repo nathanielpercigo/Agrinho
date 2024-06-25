@@ -46,8 +46,8 @@
     position: relatve;
     bottom: -1px; 
     left: 0;
-    width: 90%; 
-    height: 1px; 
+    width: 100%; 
+    height: 2px; 
     background-color: darkgreen; 
 }
 
@@ -61,4 +61,7 @@
 
 .H1texto {
     text-align: center; 
+    color: #333333;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
