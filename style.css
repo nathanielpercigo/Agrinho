@@ -1,7 +1,3 @@
-.body {
-    background: linear-gradient(to top, #006400, #FFFFFF);
-}
-
 .beautiful-title {
     font-size: 3rem;
     text-align: center;
@@ -27,7 +23,7 @@
 .image-container {
     position: relative;
     float: right;
-    margin-top: -50px;
+    margin-top: -70px;
     margin-left: 10px;
 }
 
