@@ -25,6 +25,7 @@
 }
 
 .image-container {
+    position: relative;
     float: right;
     margin-top: -50px;
     margin-left: 10px;
