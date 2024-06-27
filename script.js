@@ -1,9 +1,16 @@
 // script.js
 
+function playClickSound() {
+    const audio = new Audio('sound.mp3');
+    audio.play();
+}
+
 const buttons = document.querySelectorAll('.button');
 
 buttons.forEach(button => {
     button.addEventListener('click', function() {
+        playClickSound();
+        
         const targetId = this.getAttribute('data-target');
         
         const allH1texto = document.querySelectorAll('.H1texto');
